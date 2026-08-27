@@ -31,7 +31,7 @@ confidence: high | medium | low
 
 - AI/ML: model, architecture, benchmark, training, inference, fine-tuning, alignment
 - People/Orgs: person, company, lab, open-source, researcher
-- Technology: semiconductor, quantum, robotics, cloud, infrastructure
+- Technology: semiconductor, quantum, robotics, cloud, infrastructure, developer-tools, git
 - Business: strategy, investment, market, regulation, compliance
 - Finance: trading, pinescript, technical-analysis, fundamental-analysis
 - Security: cybersecurity, vulnerability, encryption, privacy
