@@ -2,11 +2,17 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-08-28 | Total pages: 6
+> Last updated: 2026-08-28 | Total pages: 11
 
 ## Sources
 
 ## Entities
+
+- [[agents/erna/README]] — General Assistant & Coordinator
+- [[agents/ben/README]] — Bookkeeping & Financial Data
+- [[agents/desiree/README]] — Web Design & Frontend
+- [[agents/bruno/README]] — Software Development
+- [[agents/pawel/README]] — Code Security & Review
 
 ## Concepts
 
