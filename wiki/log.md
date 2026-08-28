@@ -30,3 +30,8 @@
 - Created: wiki/agents/erna/README.md, wiki/agents/ben/README.md, wiki/agents/desiree/README.md, wiki/agents/bruno/README.md, wiki/agents/pawel/README.md
 - Updated: wiki/index.md, AGENTS.md
 - Key takeaways: 2nd Brain wiki is now shared context for all agents. Each agent has specialty area in wiki/agents/. New agents get README.md at creation time.
+
+## [2026-08-28] create | Shared Task Board + Learnings
+- Created: wiki/concepts/shared-task-board.md, wiki/concepts/agent-setup-learnings.md
+- Updated: wiki/index.md, AGENTS.md
+- Key takeaways: Bruno built async project management system at /opt/data/shared/. Board CLI for all operations. Cronjobs every 30 min for inbox checking. Learnings documented for future agent setup.

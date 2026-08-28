@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-08-28 | Total pages: 11
+> Last updated: 2026-08-28 | Total pages: 13
 
 ## Sources
 
@@ -22,6 +22,8 @@
 - [[obsidian]] — Markdown-Oberfläche für Vaults und den 2nd Brain.
 - [[set-bot-tokens]] — Telegram-Bot-Tokens sicher setzen für Hermes-Agenten.
 - [[ai-model-overview]] — KI-Modelle, Preise, Spezialisierungen und Lanvision-Konfiguration.
+- [[shared-task-board]] — Asynchrones Projekt-Management für Multi-Agent-Team.
+- [[agent-setup-learnings]] — Learnings aus dem Agent-Setup (28.08.2026).
 
 ## Comparisons
 
