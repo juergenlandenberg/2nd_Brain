@@ -20,3 +20,8 @@
 - Created: wiki/concepts/set-bot-tokens.md
 - Updated: wiki/index.md
 - Key takeaways: Secure script for setting Telegram bot tokens via @BotFather renewal. Script at /opt/data/scripts/set-bot-tokens.sh.
+
+## [2026-08-28] create | AI Model Overview entry
+- Created: wiki/concepts/ai-model-overview.md
+- Updated: wiki/index.md
+- Key takeaways: Comprehensive model comparison for Lanvision team. Standard=GPT-4.1 Mini, Heavy=Sonnet 5, Max=Opus 5. Coding: DeepSeek V4 Flash. Images: FLUX 2 Klein (free via Nous).
