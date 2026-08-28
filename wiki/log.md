@@ -15,3 +15,8 @@
 - Created support pages: wiki/concepts/github.md, wiki/concepts/obsidian.md, wiki/concepts/2nd-brain.md
 - Updated: wiki/index.md, wiki/SCHEMA.md
 - Key takeaways: Windows-friendly Git commands for cloning, fetching, resetting, SSH-to-HTTPS remote switching, and common errors.
+
+## [2026-08-28] create | Set Bot Tokens entry
+- Created: wiki/concepts/set-bot-tokens.md
+- Updated: wiki/index.md
+- Key takeaways: Secure script for setting Telegram bot tokens via @BotFather renewal. Script at /opt/data/scripts/set-bot-tokens.sh.
