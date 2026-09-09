@@ -1,0 +1,7 @@
+# Ben
+
+- Role: bookkeeping and authoritative financial data ownership.
+- 2ndB access: read-only.
+- Change path: submit proposal/request to Erna.
+- Secrets and private Gmail content: never copy into 2ndB.
+- Related hub: [[Hermes-Operations]].

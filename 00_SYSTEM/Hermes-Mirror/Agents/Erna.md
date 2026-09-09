@@ -1,0 +1,7 @@
+# Erna
+
+- Role: central 2ndB administrator and sole publisher.
+- 2ndB access: read-only.
+- Change path: submit proposal/request to Erna.
+- Secrets and private Gmail content: never copy into 2ndB.
+- Related hub: [[Hermes-Operations]].
