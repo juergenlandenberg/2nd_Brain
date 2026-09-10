@@ -4,7 +4,7 @@ Authoritative working knowledge base for Lanvision.
 
 - `00_SYSTEM/` — operating rules and schemas
 - `10_RAW/` — immutable intake material
-- `20_WIKI/` — curated knowledge
+- `XX_Wiki/` — curated knowledge
 - `30_SOURCES/` — provenance and source index
 - `40_ATTACHMENTS/` — PDFs, images and media
 - `90_ARCHIVE/` — retired material

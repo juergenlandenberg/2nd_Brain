@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8"><title>2nd Brain Vault Graph</title>
+<style>
+:root{--bg:#0b1020;--line:#64748b;--text:#e5e7eb;--gear:#facc15;--medical:#ef4444;--tri:#ec4899;--invest:#3b82f6;--tax:#22c55e;--ai:#a78bfa}
+body{margin:0;background:var(--bg);color:var(--text);font:16px system-ui,sans-serif}svg{width:100%;height:auto;min-height:680px}.edge{stroke:var(--line);stroke-width:2;fill:none}.node{stroke-width:3}.label{font-weight:700;text-anchor:middle;dominant-baseline:middle}.sub{font-size:12px;fill:#cbd5e1;text-anchor:middle}.gear{fill:var(--gear);stroke:#fde68a}.medical{fill:var(--medical);stroke:#fca5a5}.tri{fill:var(--tri);stroke:#f9a8d4}.invest{fill:var(--invest);stroke:#93c5fd}.tax{fill:var(--tax);stroke:#86efac}.ai{fill:var(--ai);stroke:#ddd6fe}.dark{fill:#111827}.legend{font-size:13px}
+</style></head>
+<body>
+<svg viewBox="0 0 1100 700" role="img" aria-label="2nd Brain farbcodierter Vault-Graph">
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8 z" fill="#64748b"/></marker></defs>
+<path class="edge" marker-end="url(#arrow)" d="M550 115 L210 255"/><path class="edge" marker-end="url(#arrow)" d="M550 115 L430 255"/><path class="edge" marker-end="url(#arrow)" d="M550 115 L670 255"/><path class="edge" marker-end="url(#arrow)" d="M550 115 L890 255"/><path class="edge" marker-end="url(#arrow)" d="M890 315 L790 475"/>
+<rect class="node dark" x="425" y="55" width="250" height="80" rx="16"/><text class="label" x="550" y="88">2nd Brain</text><text class="sub" x="550" y="113">authoritative graph hub</text>
+<rect class="node tri" x="120" y="255" width="180" height="70" rx="14"/><text class="label" x="210" y="282">JvL TRI</text><text class="sub" x="210" y="306">Pink</text>
+<rect class="node gear" x="340" y="255" width="180" height="70" rx="14"/><text class="label" x="430" y="282">JvL Gear</text><text class="sub" x="430" y="306">Yellow</text>
+<rect class="node medical" x="580" y="255" width="180" height="70" rx="14"/><text class="label" x="670" y="282">JvL Medical</text><text class="sub" x="670" y="306">Red</text>
+<rect class="node invest" x="800" y="255" width="180" height="70" rx="14"/><text class="label" x="890" y="282">JvL Invest</text><text class="sub" x="890" y="306">Blue</text>
+<rect class="node tax" x="700" y="475" width="180" height="70" rx="14"/><text class="label" x="790" y="502">Tax</text><text class="sub" x="790" y="526">Green · Invest cluster</text>
+<text class="legend" x="70" y="640">Colorcode is stored in frontmatter as colorcode + cssclasses + tags: Colorcode/&lt;Color&gt;</text>
+</svg></body></html>

@@ -13,7 +13,7 @@
 - Hermes agent and skill summaries;
 - Hermes operational procedures;
 - `03_Tags/Hermes-Operations.md` and related indexes;
-- curated `20_WIKI/Agents`, `20_WIKI/Skills`, and Hermes operations notes;
+- curated `XX_Wiki/Agents`, `XX_Wiki/Skills`, and Hermes operations notes;
 - `AGENTS.md` only where it describes Hermes/Lanvision operating rules.
 
 ## Excluded

@@ -10,6 +10,11 @@ tags: []
 status: draft | active | superseded | archived
 created: YYYY-MM-DD
 updated: YYYY-MM-DD
+main_topic: ""
+creator: ""
+maintainer: ""
+content_reviewer: ""
+source_path: ""
 sources: []
 ---
 ```

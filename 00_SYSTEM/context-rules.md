@@ -2,7 +2,7 @@
 
 ## Read order
 1. `INDEX.md`
-2. The relevant `20_WIKI/` page(s)
+2. The relevant `XX_Wiki/` page(s)
 3. The linked entry in `30_SOURCES/`
 4. The original file in `10_RAW/` or `40_ATTACHMENTS/` when verification is needed
 5. External research only when the vault is insufficient or the user requests current information

@@ -27,7 +27,7 @@
 - Key takeaways: Comprehensive model comparison for Lanvision team. Standard=GPT-4.1 Mini, Heavy=Sonnet 5, Max=Opus 5. Coding: DeepSeek V4 Flash. Images: FLUX 2 Klein (free via Nous).
 
 ## [2026-08-28] create | Agent knowledge base
-- Created: wiki/agents/erna/README.md, wiki/agents/ben/README.md, wiki/agents/desiree/README.md, wiki/agents/bruno/README.md, wiki/agents/pawel/README.md
+- Created: wiki/agents/erna/Erna-Agent-Profile.md, wiki/agents/ben/Ben-Agent-Profile.md, wiki/agents/desiree/Desiree-Agent-Profile.md, wiki/agents/bruno/Bruno-Agent-Profile.md, wiki/agents/pawel/Pawel-Agent-Profile.md
 - Updated: wiki/index.md, AGENTS.md
 - Key takeaways: 2nd Brain wiki is now shared context for all agents. Each agent has specialty area in wiki/agents/. New agents get README.md at creation time.
 

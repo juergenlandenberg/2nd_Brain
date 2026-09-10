@@ -8,11 +8,11 @@
 
 ## Entities
 
-- [[agents/erna/README]] — General Assistant & Coordinator
-- [[agents/ben/README]] — Bookkeeping & Financial Data
-- [[agents/desiree/README]] — Web Design & Frontend
-- [[agents/bruno/README]] — Software Development
-- [[agents/pawel/README]] — Code Security & Review
+- [[agents/erna/Erna-Agent-Profile]] — General Assistant & Coordinator
+- [[agents/ben/Ben-Agent-Profile]] — Bookkeeping & Financial Data
+- [[agents/desiree/Desiree-Agent-Profile]] — Web Design & Frontend
+- [[agents/bruno/Bruno-Agent-Profile]] — Software Development
+- [[agents/pawel/Pawel-Agent-Profile]] — Code Security & Review
 
 ## Concepts
 

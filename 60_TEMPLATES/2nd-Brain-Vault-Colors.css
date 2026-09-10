@@ -1,0 +1,23 @@
+/* 2nd Brain vault color system
+   Use on vault main nodes and graph exports. */
+
+.vault-node-gear { --vault-color: #facc15; --vault-color-soft: rgba(250,204,21,.16); }
+.vault-node-medical { --vault-color: #ef4444; --vault-color-soft: rgba(239,68,68,.16); }
+.vault-node-tri { --vault-color: #ec4899; --vault-color-soft: rgba(236,72,153,.16); }
+.vault-node-invest { --vault-color: #3b82f6; --vault-color-soft: rgba(59,130,246,.16); }
+.vault-node-tax { --vault-color: #22c55e; --vault-color-soft: rgba(34,197,94,.16); }
+
+/* Obsidian note callout/header styling for explicit cssclasses. */
+.vault-node-gear h1, .vault-node-medical h1, .vault-node-tri h1,
+.vault-node-invest h1, .vault-node-tax h1 {
+  border-bottom: 3px solid var(--vault-color);
+  padding-bottom: .2em;
+}
+
+.vault-color-legend { display: flex; gap: .8em; flex-wrap: wrap; }
+.vault-color-legend span { padding: .2em .5em; border-radius: .3em; color: #111; font-weight: 700; }
+.vault-color-legend .gear { background: #facc15; }
+.vault-color-legend .medical { background: #ef4444; color: #fff; }
+.vault-color-legend .tri { background: #ec4899; }
+.vault-color-legend .invest { background: #3b82f6; color: #fff; }
+.vault-color-legend .tax { background: #22c55e; }

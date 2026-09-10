@@ -5,7 +5,7 @@ This vault is the authoritative working knowledge base for Lanvision.
 
 ## Source layers
 - `10_RAW/` contains original source material. Never rewrite or silently delete RAW.
-- `20_WIKI/` contains curated, linked knowledge derived from sources.
+- `XX_Wiki/` contains curated, linked knowledge derived from sources.
 - `30_SOURCES/` contains provenance, bibliographic records and source indexes.
 - `40_ATTACHMENTS/` contains binary source files and media.
 
@@ -18,8 +18,11 @@ This vault is the authoritative working knowledge base for Lanvision.
 6. Do not overwrite competing claims; record the conflict and its sources.
 7. Treat RAW as immutable evidence.
 8. One active writer per file; check the Drive revision before updating.
-9. Keep secrets, tokens, passwords and private keys out of this vault.
-10. Do not copy `.git/`, `.obsidian/workspace*.json`, caches or runtime state.
+9. Every curated note must use an informative filename; `README.md` is not an accepted content-note name.
+10. Every curated note must link to its main topic or cluster; cross-links between related notes are encouraged.
+11. Erna is creator and maintainer of all Hermes notes. For imported personal vaults, Jürgen is the final content reviewer; topic roles are assigned before publication.
+12. Keep secrets, tokens, passwords and private keys out of this vault.
+13. Do not copy `.git/`, `.obsidian/workspace*.json`, caches or runtime state.
 
 ## Ingest workflow
 New material enters `10_RAW/` first. Resi may prepare a proposal. A curated WIKI update must preserve source links and be logged in `CHANGELOG.md`.
