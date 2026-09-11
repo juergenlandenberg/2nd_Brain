@@ -4,6 +4,8 @@ Die verbindliche Environment-Matrix liegt im Projekt unter:
 
 `/opt/data/shared-workspace/projects/sicheres-dashboard-v1/docs/environment-matrix-vps-windows-finn-staging.md`
 
+Navigation: [[JvL-Invest]] · [[JvL-Invest-Investing]] · [[Finn-Agent-Profile]] · [[Hermes-Operations]]
+
 Kernbefund: Es gibt derzeit kein verifiziertes Test-Environment. `/docker/sicheres-dashboard-v1-staging` ist nur ein Versuchspfad mit laufenden Compose-Containern. API-intern liefert `/health/live` 200, aber `docker port` ist leer und der VPS-Host verweigert `127.0.0.1:3100`; `docker inspect` zeigt nur eine statische, zur Laufzeit nicht wirksame PortBinding. Pawel priorisiert deshalb Docker-Daemon-/Portproxy-/Hostnetz-Diagnose; Ben verlangt Quelle→Mount→SQLite-Integrität→Read-only→Provenienz. Windows/SSH ist erst danach relevant. Keine Produktionsfreigabe.
 
 Rollen: Ben prüft Quelle/Mount/Read-only/Provenienz; Pawel prüft unabhängig Netzwerk- und Sicherheitsgrenzen; Bruno implementiert; Erna koordiniert; Jürgen gibt fachlich und produktiv frei.

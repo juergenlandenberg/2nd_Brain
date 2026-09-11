@@ -3,6 +3,8 @@
 **Stand:** 2026-09-07 13:10 UTC  
 **Status:** produktiv verifiziert
 
+Navigation: [[Hermes-Operations]] · [[Finn-Agent-Profile]] · [[finn-staging-environment-vps-windows]]
+
 ## Zielzugang
 
 - Domain: `https://dashboard.lanvision.cloud`

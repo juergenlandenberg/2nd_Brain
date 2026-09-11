@@ -27,6 +27,10 @@ Authoritative navigation index for the governed 2nd Brain. Google Drive is the w
 - [[03_Tags/JvL-Invest-Trading]] — Blue
 - [[03_Tags/JvL-Invest-Investing]] — Blue
 - [[03_Tags/JvL-Invest-Tax]] — Green
+- [[03_Tags/JvL-Invest-Futures-Options]] — Blue; derivatives knowledge and strategy map
+- [[03_Tags/JvL-Invest-Futures]] — Futures knowledge
+- [[03_Tags/JvL-Invest-Options]] — Options knowledge
+- [[03_Tags/JvL-Invest-Trading]] — Trading knowledge
 
 ## System
 
@@ -37,6 +41,7 @@ Authoritative navigation index for the governed 2nd Brain. Google Drive is the w
 - [[00_SYSTEM/schema]]
 - [[00_SYSTEM/source-policy]]
 - [[00_SYSTEM/note-governance]]
+- [[03_Tags/Hermes-Operations]]
 
 ## Import governance
 

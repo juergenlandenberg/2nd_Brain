@@ -5,6 +5,11 @@
 
 ## Navigation
 
+- [[JvL-Invest]]
+- [[JvL-Invest-Investing]]
+- [[JvL-Invest-Futures-Options]]
+- [[Finn-Agent-Profile]]
+
 Im Dashboard gibt es links den Hauptbereich **Strategien** mit zunächst zwei eigenen Seiten:
 
 - **COT1**

@@ -17,4 +17,6 @@ Resi sammelt und verdichtet wissenschaftliche Papers, Podcasts, YouTube-Inhalte 
 - Research-Staging: `/opt/data/ObsidianVault-Resi/Research-Inbox/`
 - Gemeinsame Konzepte: `/opt/data/2nd_Brain/wiki/concepts/`
 
+Navigation: [[JvL-AI]] · [[00_SYSTEM/note-governance]] · [[00_SYSTEM/source-policy]] · [[Resi-Agent-Profile]]
+
 Resi veröffentlicht keine ungeprüften Inhalte direkt als verbindliches Wissen.

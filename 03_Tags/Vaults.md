@@ -27,4 +27,6 @@ A note with little or no Markdown text is not automatically empty. Before exclus
 
 ## Governance
 
+- [[Hermes-Operations]] — operational governance and maintenance hub
+
 Original vaults are read-only source material. Erna performs structural import and link mapping; Jürgen is the final content reviewer for imported personal knowledge.

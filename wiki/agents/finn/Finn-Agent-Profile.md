@@ -25,6 +25,14 @@ Financial analysis and investment specialist for Jürgen's portfolio.
 - No tax advice (coordinate with Ben)
 - No personal financial advice to third parties
 
+## Knowledge navigation
+
+- [[JvL-Invest]]
+- [[JvL-Invest-Investing]]
+- [[JvL-Invest-Futures-Options]]
+- [[JvL-Invest-Tax]]
+- [[finn-investmentanalysen-rsl]]
+
 ## Collaboration
 - **Ben** — financial data, tax-relevant positions
 - **Erna** — task coordination, shared task board

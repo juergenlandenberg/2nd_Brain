@@ -1,0 +1,32 @@
+---
+title: "PV"
+type: knowledge-source
+status: draft
+main_topic: "JvL Invest"
+creator: "Erna"
+maintainer: "Erna"
+content_reviewer: "Jürgen"
+section: "Tax"
+colorcode: "Green"
+tags:
+  - MOC/Tax
+sources:
+  - "Google Drive / 10_RAW / Archive Imports / JvL_Invest / Steuern_Wissen/PV.md"
+source_file_id: "1EdJce25NzuMEDfjvU-fkTjK9VUewDudg"
+---
+
+# PV
+
+Navigation: [[JvL-Invest]] · [[JvL-Invest-Investing]] · [[JvL-Invest-Futures-Options]] · [[JvL-Invest-Tax]]
+
+> Imported from immutable RAW material. This is a review draft; source claims are not recommendations.
+
+![[40_ATTACHMENTS/JvL_Invest/Clippings/Pasted image 20251027210950.png]]
+
+![[40_ATTACHMENTS/JvL_Invest/Clippings/Pasted image 20251027212734.png]]
+
+
+<!-- Ambiguous image basenames retained for review:
+Pasted image 20251027210950.png: Clippings/Pasted image 20251027210950.png, 06_Clippings/Pasted image 20251027210950.png
+Pasted image 20251027212734.png: Clippings/Pasted image 20251027212734.png, 06_Clippings/Pasted image 20251027212734.png
+-->
