@@ -21,7 +21,7 @@ Navigation: [[JvL-Invest]] · [[JvL-Invest-Investing]] · [[JvL-Invest-Futures-O
 
 > Imported from immutable RAW material. This is a review draft; source claims are not recommendations.
 
-[[Zyklen und Trends]]
+[[03_Tags/JvL-Invest-Futures|Zyklen und Trends]]
 
 
 ![[40_ATTACHMENTS/JvL_Invest/Clippings/Pasted image 20260224134957.png]]

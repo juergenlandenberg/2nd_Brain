@@ -21,7 +21,7 @@ Navigation: [[JvL-Invest]] · [[JvL-Invest-Investing]] · [[JvL-Invest-Futures-O
 
 > Imported from immutable RAW material. This is a review draft; source claims are not recommendations.
 
-[[Steuern Wissen]]
+[[03_Tags/JvL-Invest-Tax|Steuern Wissen]]
 #_Tax Tax
 	
 Language {{de}}
@@ -29,14 +29,14 @@ Title: Gewerbesteuer
 Date: 2025-10-14 
 Time: 08:29 
 
-[[Steuern Wissen]]
+[[03_Tags/JvL-Invest-Tax|Steuern Wissen]]
 
 
-[[Gewerbesteuer]]
-![[10_RAW/Clippings/JvL_Invest/Pasted image 20251014082919.png]]
+[[03_Tags/JvL-Invest-Tax|Gewerbesteuer]]
+![[40_ATTACHMENTS/JvL_Invest/Clippings/Pasted image 20251014082919.png]]
 
 Rechtsform und GewST
 
-![[10_RAW/Clippings/JvL_Invest/Pasted image 20251014083133.png]]
+![[40_ATTACHMENTS/JvL_Invest/Clippings/Pasted image 20251014083133.png]]
 
-![[10_RAW/Clippings/JvL_Invest/Pasted image 20251014083302.png]]
+![[40_ATTACHMENTS/JvL_Invest/Clippings/Pasted image 20251014083302.png]]

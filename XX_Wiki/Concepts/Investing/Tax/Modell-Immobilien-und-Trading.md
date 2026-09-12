@@ -28,8 +28,8 @@ Title: Modell Immobilien und Trading
 Date: 2025-10-28 
 Time: 16:21 
 
-[[Steuern Wissen]]
-[[Steueridentitäten|Steueridentitäten]]
+[[03_Tags/JvL-Invest-Tax|Steuern Wissen]]
+[[03_Tags/JvL-Invest-Tax|Steueridentitäten]]
 
 
 Deopt 10000k für beide
@@ -66,7 +66,7 @@ UND
 Geno da nur Nennwert in Stifungsholding eingeht -> KEINE Erbersatzsteuer
 
 
-[[Gründungskosten]]:
+[[03_Tags/JvL-Invest-Tax|Gründungskosten]]:
 ![[40_ATTACHMENTS/JvL_Invest/Clippings/Pasted image 20251030143556.png]]
 
 Betriebskosten:

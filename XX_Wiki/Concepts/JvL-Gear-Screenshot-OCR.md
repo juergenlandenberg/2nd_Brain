@@ -24,11 +24,11 @@ sources:
 
 ## Preserved screenshot sources
 
-![[Gear-Screenshot_20251225-073743.png]]
-![[Gear-Screenshot_20251225-073729.png]]
-![[Gear-Screenshot_20251225-073724.png]]
-![[Gear-Screenshot_2025-07-10_173645.png]]
-![[Gear-Screenshot_2025-07-10_173627.png]]
+![[40_ATTACHMENTS/Gear-Screenshot_20251225-073743.png]]
+![[40_ATTACHMENTS/Gear-Screenshot_20251225-073729.png]]
+![[40_ATTACHMENTS/Gear-Screenshot_20251225-073724.png]]
+![[40_ATTACHMENTS/Gear-Screenshot_2025-07-10_173645.png]]
+![[40_ATTACHMENTS/Gear-Screenshot_2025-07-10_173627.png]]
 
 The images above are the preserved source attachments. The sections below are OCR-assisted readings; cropped or low-resolution values remain explicitly uncertain.
 

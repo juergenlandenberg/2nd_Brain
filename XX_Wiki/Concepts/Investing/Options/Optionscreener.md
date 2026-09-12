@@ -27,7 +27,7 @@ Time: 08:11
 Source: Barchart
 
 
-Type: [[Option]], 
+Type: [[03_Tags/JvL-Invest-Options|Option]], 
 Market: Bullish, Bearisch, Range/Neutral
 
 ## Abstract:

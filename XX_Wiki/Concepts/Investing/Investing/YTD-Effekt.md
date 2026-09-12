@@ -21,8 +21,8 @@ Navigation: [[JvL-Invest]] · [[JvL-Invest-Investing]] · [[JvL-Invest-Futures-O
 
 > Imported from immutable RAW material. This is a review draft; source claims are not recommendations.
 
-[[Portfoliomanagent - Ausbildung]]
-[[Investment_Strategy]]
+[[03_Tags/JvL-Invest-Investing|Portfoliomanagent - Ausbildung]]
+[[03_Tags/JvL-Invest-Investing|Investment_Strategy]]
 
 
 **Die Idee:** 

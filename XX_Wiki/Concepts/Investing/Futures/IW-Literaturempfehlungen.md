@@ -25,7 +25,7 @@ Title: IW Literaturempfehlungen
 Date: 2025-12-28 
 Time: 11:44 
 
-[[IW Future Training]]
+[[03_Tags/JvL-Invest-Futures|IW Future Training]]
 
 
 

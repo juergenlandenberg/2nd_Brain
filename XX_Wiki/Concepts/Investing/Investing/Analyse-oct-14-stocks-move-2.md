@@ -42,4 +42,4 @@ KW:
 # Analyse oct 14 stocks move
 Analyse OCt 16 Stocks Move
 
-![[10_RAW/Clippings/JvL_Invest/Pasted image 20251016215807.png]]
+![[40_ATTACHMENTS/JvL_Invest/Clippings/Pasted image 20251016215807.png]]

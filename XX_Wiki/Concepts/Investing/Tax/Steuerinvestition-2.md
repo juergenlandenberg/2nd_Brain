@@ -28,7 +28,7 @@ Title: Steuerinvestition
 Date: 2025-10-14 
 Time: 08:42 
 
-[[Steuern Wissen]]
+[[03_Tags/JvL-Invest-Tax|Steuern Wissen]]
 
 
 

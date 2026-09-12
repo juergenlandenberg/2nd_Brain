@@ -28,6 +28,6 @@ Title: Inflationsraten Deutschland
 Date: 2025-10-14 
 Time: 09:14 
 
-[[Steuern Wissen]]
+[[03_Tags/JvL-Invest-Tax|Steuern Wissen]]
 
-![[10_RAW/Clippings/JvL_Invest/Pasted image 20251014091402.png]]
+![[40_ATTACHMENTS/JvL_Invest/Clippings/Pasted image 20251014091402.png]]

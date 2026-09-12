@@ -21,12 +21,12 @@ Navigation: [[JvL-Invest]] · [[JvL-Invest-Investing]] · [[JvL-Invest-Futures-O
 
 > Imported from immutable RAW material. This is a review draft; source claims are not recommendations.
 
-[[Steuern Wissen]]
+[[03_Tags/JvL-Invest-Tax|Steuern Wissen]]
 
 Steuerverwendung 2024
-![[10_RAW/Clippings/JvL_Invest/Pasted image 20251013124008.png]]
+![[40_ATTACHMENTS/JvL_Invest/Clippings/Pasted image 20251013124008.png]]
 
-![[10_RAW/Clippings/JvL_Invest/Pasted image 20251013124244.png]]
+![[40_ATTACHMENTS/JvL_Invest/Clippings/Pasted image 20251013124244.png]]
 
 
 Lohnsteuer: Quelle automatisch abgeführt von Arbeitnehmern

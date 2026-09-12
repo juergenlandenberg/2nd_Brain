@@ -27,8 +27,8 @@ Time: 14:05
 Source: [0DTE Iron Fly on SPX: How Dale made $1,5M in two years - Theta Profits](https://www.thetaprofits.com/0dte-iron-fly-on-spx-how-dale-made-15m-in-two-years/)
 https://youtu.be/J1pnBRw_kV0
 
-Type: [[Options]], 
-Market: [[Range/Neutral]]
+Type: [[03_Tags/JvL-Invest-Options|Options]], 
+Market: [[03_Tags/JvL-Invest-Options|Range/Neutral]]
 
 
 ## Abstract:

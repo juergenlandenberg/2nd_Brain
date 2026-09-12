@@ -29,7 +29,7 @@ Source:[This Lawyer’s Options Trading Strategy Guarantees No Loss (Here’s Ho
 
 
 
-Type: [[Options]], 
+Type: [[03_Tags/JvL-Invest-Options|Options]], 
 Market: Bullish, Bearisch, Range/Neutral
 
 ## Abstract:

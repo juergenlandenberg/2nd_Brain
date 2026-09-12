@@ -28,7 +28,7 @@ Title: Immobilien
 Date: 2025-10-26 
 Time: 14:08 
 
-[[Steuern Wissen]]
+[[03_Tags/JvL-Invest-Tax|Steuern Wissen]]
 
 
 ![[40_ATTACHMENTS/JvL_Invest/Clippings/Pasted image 20251026140848.png]]Garage 5%

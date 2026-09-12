@@ -28,7 +28,7 @@ Title: Vermögenssicherung
 Date: 2025-10-16 
 Time: 21:27 
 
-[[Steuern Wissen]]
+[[03_Tags/JvL-Invest-Tax|Steuern Wissen]]
 
 Gesellschaftformen
 
@@ -52,4 +52,4 @@ Die Genossenschaft ist eien Gesellschaft deren Zweck darauf gerichtet ist den Er
 
 KFZ
 Gesundheit
-**![[10_RAW/Clippings/JvL_Invest/Pasted image 20251016215900.png]]**
+**![[40_ATTACHMENTS/JvL_Invest/Clippings/Pasted image 20251016215900.png]]**

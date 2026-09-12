@@ -27,8 +27,8 @@ Time: 17:01
 Source:
 [0DTE Iron Condor success: How Nick doubled his trading account - Theta Profits](https://www.thetaprofits.com/0dte-iron-condor-success-how-nick-doubled-his-trading-account/)
 
-Type: [[Options]], 
-Market: [[Neutral]]
+Type: [[03_Tags/JvL-Invest-Options|Options]], 
+Market: [[03_Tags/JvL-Invest-Options|Neutral]]
 
 ## Abstract:
 

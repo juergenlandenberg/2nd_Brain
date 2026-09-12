@@ -28,12 +28,12 @@ Title: Untitled
 Date: 2025-10-13 
 Time: 22:40 
 
-[[Steuern Wissen]]
+[[03_Tags/JvL-Invest-Tax|Steuern Wissen]]
 
 
 Grundtabelle unverheiratet ( Spitzensteuersatz ab ca 62,000) im [[xx_Main/Steuern_Wissen/Grenzsteuersatz]]
 
-![[10_RAW/Clippings/JvL_Invest/Pasted image 20251013224748.png]]
+![[40_ATTACHMENTS/JvL_Invest/Clippings/Pasted image 20251013224748.png]]
 
 Durschnittssteuersatz gestaffelte berechnung z.b 58k-bis 60k 42% + zb. 50-52k 36% + ... je nach band
 

@@ -21,8 +21,8 @@ Navigation: [[JvL-Invest]] · [[JvL-Invest-Investing]] · [[JvL-Invest-Futures-O
 
 > Imported from immutable RAW material. This is a review draft; source claims are not recommendations.
 
-[[Steuern Wissen]]
-[[Immobilienwissen]]
+[[03_Tags/JvL-Invest-Tax|Steuern Wissen]]
+[[03_Tags/JvL-Invest-Investing|Immobilienwissen]]
 
 
 Lenkungsfunktion
@@ -48,17 +48,17 @@ Veränderung Baukostenbegrenzung: ==Neubau 3000-4800€/sqm
 
 
 
-[[IAB Investitionsabzugsbetrag]] - für Bewegliche Wirtschaftsgüter
+[[03_Tags/JvL-Invest-Tax|IAB Investitionsabzugsbetrag]] - für Bewegliche Wirtschaftsgüter
 3 Jahre vor Anschaffung - Abschreiben - bis zu 50% (Vorgezogene Abschreibung)
 ab 1.1 2021 Gewinn max 200,000 € 
-zusätzlich 20% Sonder AfA ab Anschaffung + normale Afa von 10% ==(Ab 1.1.2024 - 50% Sonder AfA ab Anschaffung) [[IB Sonder AfA 50%]]
+zusätzlich 20% Sonder AfA ab Anschaffung + normale Afa von 10% ==(Ab 1.1.2024 - 50% Sonder AfA ab Anschaffung) [[03_Tags/JvL-Invest-Tax|IB Sonder AfA 50%]]
 
 Total 70% (30% + 20 von rest 70% + 10%) in 3 Jahren
 
 
 
 
-![[Voraussetzung-f-r-erh-hte-Abschreibungen 1.pdf]]
+![[40_ATTACHMENTS/JvL_Invest/Clippings/Voraussetzung-f-r-erh-hte-Abschreibungen 1.pdf]]
 
 
 
@@ -71,7 +71,7 @@ Anschaffung 200,000€
 - zusatzlich reguläre Abschreibung - wir wählen degressiv 25% auf 50,000 €)
 -Total der Anschaffung 68,625€
 
-![[10_RAW/Clippings/JvL_Invest/Pasted image 20251013212937.png]]
+![[40_ATTACHMENTS/JvL_Invest/Clippings/Pasted image 20251013212937.png]]
 
 
 Beispiel EEG
@@ -79,4 +79,4 @@ Beispiel EEG
 Lenkungsfunktion kleinere Anlage werden gefördert
 
 
-![[10_RAW/Clippings/JvL_Invest/Pasted image 20251013213916.png]]
+![[40_ATTACHMENTS/JvL_Invest/Clippings/Pasted image 20251013213916.png]]

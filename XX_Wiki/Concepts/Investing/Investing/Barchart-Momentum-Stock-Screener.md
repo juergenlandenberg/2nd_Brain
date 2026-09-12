@@ -27,7 +27,7 @@ Time: 10:41
 Source:
 
 
-Type: [[Options]], [[Futures]], [[Equity]]
+Type: [[03_Tags/JvL-Invest-Options|Options]], [[03_Tags/JvL-Invest-Futures|Futures]], [[03_Tags/JvL-Invest-Investing|Equity]]
 Market: Bullish, Bearisch, Range/Neutral
 
 ## Abstract:

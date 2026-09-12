@@ -21,7 +21,7 @@ Navigation: [[JvL-Invest]] · [[JvL-Invest-Investing]] · [[JvL-Invest-Futures-O
 
 > Imported from immutable RAW material. This is a review draft; source claims are not recommendations.
 
-[[Unternehmensgründung]][[Steuerliche Risiken]]
+[[03_Tags/JvL-Invest-Tax|Unternehmensgründung]][[03_Tags/JvL-Invest-Tax|Steuerliche Risiken]]
 	
 
 Title: Gesellschaftsformen 

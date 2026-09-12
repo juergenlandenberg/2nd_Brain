@@ -21,9 +21,9 @@ Navigation: [[JvL-Invest]] · [[JvL-Invest-Investing]] · [[JvL-Invest-Futures-O
 
 > Imported from immutable RAW material. This is a review draft; source claims are not recommendations.
 
-[[Steuern Wissen]]
-[[Steuerfallen]]
-[[Immobilienwissen]]
+[[03_Tags/JvL-Invest-Tax|Steuern Wissen]]
+[[03_Tags/JvL-Invest-Tax|Steuerfallen]]
+[[03_Tags/JvL-Invest-Investing|Immobilienwissen]]
 
 
 Vermietung grundsätzlich UST frei

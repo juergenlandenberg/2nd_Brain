@@ -21,7 +21,7 @@ Navigation: [[JvL-Invest]] · [[JvL-Invest-Investing]] · [[JvL-Invest-Futures-O
 
 > Imported from immutable RAW material. This is a review draft; source claims are not recommendations.
 
-[[Options]]
+[[03_Tags/JvL-Invest-Options|Options]]
 
 Based on the transcript provided, here is the summary of the default metrics and custom screener filters used for trading cash-secured puts.
 

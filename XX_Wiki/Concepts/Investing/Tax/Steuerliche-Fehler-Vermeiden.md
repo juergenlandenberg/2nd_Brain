@@ -28,10 +28,10 @@ Title: Steuerliche Fehler Vermeiden
 Date: 2025-10-16 
 Time: 22:17 
 
-[[Steuern Wissen]]
-[[Steuerliche Risiken]]
-[[Wegzugsbesteuerung]]
-[[Betriebsaufspaltung]]
+[[03_Tags/JvL-Invest-Tax|Steuern Wissen]]
+[[03_Tags/JvL-Invest-Tax|Steuerliche Risiken]]
+[[03_Tags/JvL-Invest-Tax|Wegzugsbesteuerung]]
+[[03_Tags/JvL-Invest-Tax|Betriebsaufspaltung]]
 
 
 
@@ -43,7 +43,7 @@ Steuerfallen:
 	- Beteiligung and Kapitalgesellschaften von minderstens 1%
 	- Wohnsitz oder gewöhnlicher Aufenthalt ins Ausland
 	- Bewertung der Anteile zum Zeitpunkt des Wegzugs zu Marktpreis incl Aufdeckung aller stillen Reserven (Bewertung nach Teileinkünfteverfahren = Marktpreis *60% * persönl. Steuersatz) => 25-27% Steuern
-- ![[10_RAW/Clippings/JvL_Invest/Pasted image 20251016223103.png]]
+- ![[40_ATTACHMENTS/JvL_Invest/Clippings/Pasted image 20251016223103.png]]
 - Vermeidung: Stiftung oder Geno* ( fällt bei Genossenschaft zum Nennwert an - 60% * persönl. Steuersatz, wenn das Finanzamt die Genossenschaftsanteile zum Nennwert akzeptiert)
   Deshalb - Stiftung bevorzugt da 100% sicher
 - Vorrübergehender Wegzug (auf Probe) - Absicht zum Rückzug reicht aus, Ma 7 Jahre ( mit antrag auf 12 Jahre) - ==Muss vor Wegzug beim Finanzamt mitgeteilt werden==
@@ -53,8 +53,8 @@ Steuerfallen:
 	- 2 Kriterien:
 	- ==Beherrschungsidentität==
 	- GmbH wird im Betriebsgebäude betrieben
-	  ![[10_RAW/Clippings/JvL_Invest/Pasted image 20251016225503.png]]
-	- Konsequenz: [[Gewerbesteuer]], Stille Reserven werden aktiviert udn verkauf versteuert.
+	  ![[40_ATTACHMENTS/JvL_Invest/Clippings/Pasted image 20251016225503.png]]
+	- Konsequenz: [[03_Tags/JvL-Invest-Tax|Gewerbesteuer]], Stille Reserven werden aktiviert udn verkauf versteuert.
 	  => neues Einzelunternehmen, die Anteiel der GmbH rutschen ins Betriebsvermögung des Einzelunternehmens
-	- ![[10_RAW/Clippings/JvL_Invest/Pasted image 20251016225803.png]]
+	- ![[40_ATTACHMENTS/JvL_Invest/Clippings/Pasted image 20251016225803.png]]
 	-

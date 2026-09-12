@@ -28,7 +28,7 @@ Title: Steuerstundungen
 Date: 2025-10-14 
 Time: 09:16 
 
-[[Steuern Wissen]]
+[[03_Tags/JvL-Invest-Tax|Steuern Wissen]]
 
 ==Plane== Anschaffung von z.b. PV anlage in ==2023==
 Geplanter Kaufpreis 100,000 €
@@ -42,12 +42,12 @@ Sonder Afa = 20% der netto AK im Jahr der Anschaffung
 2024 Sonder Afa -> ersparte Steuer 4500
 
 Nach 20 Jahren: 72,160€
-![[10_RAW/Clippings/JvL_Invest/Pasted image 20251016211900.png]]
+![[40_ATTACHMENTS/JvL_Invest/Clippings/Pasted image 20251016211900.png]]
 
 
 Beispiel IAB + Immobilien Hebel
 Kapital nach 20 Jahren, 200,000€
-![[10_RAW/Clippings/JvL_Invest/Pasted image 20251016212033.png]]
+![[40_ATTACHMENTS/JvL_Invest/Clippings/Pasted image 20251016212033.png]]
 
 
 Beispiel 3 PV 400,000
@@ -55,4 +55,4 @@ IAB 200,000 - umwandlung Steuern 90,000
 
 PV voll finanzierung möglich bei 9% Rendite
 
-![[10_RAW/Clippings/JvL_Invest/Pasted image 20251016212626.png]]
+![[40_ATTACHMENTS/JvL_Invest/Clippings/Pasted image 20251016212626.png]]

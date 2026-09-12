@@ -26,7 +26,7 @@ Navigation: [[JvL-Invest]] · [[JvL-Invest-Investing]] · [[JvL-Invest-Futures-O
 
 
 
-![[10_RAW/Clippings/JvL_Invest/Pasted image 20260703110315.png]]
+![[40_ATTACHMENTS/JvL_Invest/Clippings/Pasted image 20260703110315.png]]
 
 
 
@@ -60,7 +60,7 @@ subscriptions ....
 ## Platforms
 
 Software local/cloud
-[[TWS]] connection
+[[03_Tags/JvL-Invest-Trading|TWS]] connection
 
 Server vs local
 MultiCharts, whose lifetime license costs $1,497 (for Unger Academy® students, the cost is $1,097).

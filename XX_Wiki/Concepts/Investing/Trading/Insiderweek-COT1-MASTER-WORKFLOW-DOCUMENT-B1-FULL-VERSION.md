@@ -22,8 +22,8 @@ Navigation: [[JvL-Invest]] · [[JvL-Invest-Investing]] · [[JvL-Invest-Futures-O
 > Imported from immutable RAW material. This is a review draft; source claims are not recommendations.
 
 #
-[[insiderweek]] 
-[[Futures]]
+[[03_Tags/JvL-Invest-Trading|insiderweek]] 
+[[03_Tags/JvL-Invest-Futures|Futures]]
  
 
 ### _Weekly → Daily → Entry → Management → Exit — Full InsiderWeek Workflow_

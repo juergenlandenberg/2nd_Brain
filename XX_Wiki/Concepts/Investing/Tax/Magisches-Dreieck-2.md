@@ -29,11 +29,11 @@ Title: Magisches Dreieck
 Date: 2025-10-13 
 Time: 11:50 
 
-[[Systematisch Steuern Sparen]]
-[[Smarte Investments]]
-[[03_Tags/Tax/Vermögenssicherung]]
+[[03_Tags/JvL-Invest-Tax|Systematisch Steuern Sparen]]
+[[03_Tags/JvL-Invest-Tax|Smarte Investments]]
+[[03_Tags/JvL-Invest-Tax|03_Tags/Tax/Vermögenssicherung]]
 
-![[10_RAW/Clippings/JvL_Invest/Pasted image 20251013122650.png]]
+![[40_ATTACHMENTS/JvL_Invest/Clippings/Pasted image 20251013122650.png]]
 
 
 
@@ -43,5 +43,5 @@ Time: 11:50
 
  ##References
 
-[[Magisches Dreieck]]
-[[Steuern Wissen]]
+[[03_Tags/JvL-Invest-Tax|Magisches Dreieck]]
+[[03_Tags/JvL-Invest-Tax|Steuern Wissen]]

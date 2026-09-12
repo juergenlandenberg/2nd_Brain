@@ -21,7 +21,7 @@ Navigation: [[JvL-Invest]] · [[JvL-Invest-Investing]] · [[JvL-Invest-Futures-O
 
 > Imported from immutable RAW material. This is a review draft; source claims are not recommendations.
 
-[[Indikator]]
+[[03_Tags/JvL-Invest-Trading|Indikator]]
 
 
 ADX (Green>red UND ADX >25) Rise ADX - Strong Trend

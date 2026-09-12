@@ -25,7 +25,7 @@ Title: Andre Stagge - Portfoliomanagement
 Date: 2026-01-12 
 Time: 19:30 
 
-[[Portfoliomanagent - Ausbildung]]
+[[03_Tags/JvL-Invest-Investing|Portfoliomanagent - Ausbildung]]
 
 
 Hier kannst Du Dich für die Termine der neuen **Live-Staffel** der Intensivausbildung Portfoliomanagement, welche am 12. Januar 2026 um 19 Uhr beginnt, registrieren:

@@ -28,11 +28,11 @@ Title: Das Gesamte Spiel
 Date: 2025-10-16 
 Time: 22:00 
 
-[[Steuern Wissen]]
+[[03_Tags/JvL-Invest-Tax|Steuern Wissen]]
 
-[[Magisches Dreieck]]
+[[03_Tags/JvL-Invest-Tax|Magisches Dreieck]]
 [[03_Tags/Vermögenssicherung|Vermögenssicherung]]
-[[IAB Investitionsabzugsbetrag]]
+[[03_Tags/JvL-Invest-Tax|IAB Investitionsabzugsbetrag]]
 [[IB]
 ]
 
@@ -42,16 +42,16 @@ Kaufpreis Immobilie ( Bank)
 Kapitaldienst (Mieter)
 
 
-![[10_RAW/Clippings/JvL_Invest/Pasted image 20251016220206.png]]
+![[40_ATTACHMENTS/JvL_Invest/Clippings/Pasted image 20251016220206.png]]
 
 
 Booster
 wenn immo positiv ->verschieben in Genossenschaft 15% ( vermindert um Zuwendungen an ordentliche Mitglieder)
 
-![[10_RAW/Clippings/JvL_Invest/Pasted image 20251016221114.png]]
+![[40_ATTACHMENTS/JvL_Invest/Clippings/Pasted image 20251016221114.png]]
 
 
 
-![[10_RAW/Clippings/JvL_Invest/Pasted image 20251016221148.png]]
+![[40_ATTACHMENTS/JvL_Invest/Clippings/Pasted image 20251016221148.png]]
  Förderung: z.b. Mitgliedereise
-![[10_RAW/Clippings/JvL_Invest/Pasted image 20251016221550.png]]
+![[40_ATTACHMENTS/JvL_Invest/Clippings/Pasted image 20251016221550.png]]

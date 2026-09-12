@@ -32,17 +32,17 @@ Lecture Deutschland Crash
 
 ## Things to Memorize
 
-![[10_RAW/Clippings/JvL_Invest/wealth confiscation.png]]
+![[40_ATTACHMENTS/JvL_Invest/Clippings/wealth confiscation.png]]
 
 
-![[10_RAW/Clippings/JvL_Invest/wartime economic control 1.png]]
+![[40_ATTACHMENTS/JvL_Invest/Clippings/wartime economic control 1.png]]
 
-![[10_RAW/Clippings/JvL_Invest/Pfändungen 1.png]]
+![[40_ATTACHMENTS/JvL_Invest/Clippings/Pfändungen 1.png]]
 
 conomic control.png]]
 
-![[10_RAW/Clippings/JvL_Invest/MArkets.png]]
+![[40_ATTACHMENTS/JvL_Invest/Clippings/MArkets.png]]
 
 
 
-![[10_RAW/Clippings/JvL_Invest/Pasted image 20260507191133.png]]
+![[40_ATTACHMENTS/JvL_Invest/Clippings/Pasted image 20260507191133.png]]

@@ -21,4 +21,4 @@ Navigation: [[JvL-Invest]] · [[JvL-Invest-Investing]] · [[JvL-Invest-Futures-O
 
 > Imported from immutable RAW material. This is a review draft; source claims are not recommendations.
 
-![[10_RAW/Clippings/JvL_Invest/Pasted image 20260719104140.png]]
+![[40_ATTACHMENTS/JvL_Invest/Clippings/Pasted image 20260719104140.png]]

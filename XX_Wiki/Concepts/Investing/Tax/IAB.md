@@ -28,8 +28,8 @@ Title: Untitled
 Date: 2025-10-21 
 Time: 08:50 
 
-[[IAB Investitionsabzugsbetrag]]
-[[Steuern Wissen]]
+[[03_Tags/JvL-Invest-Tax|IAB Investitionsabzugsbetrag]]
+[[03_Tags/JvL-Invest-Tax|Steuern Wissen]]
 
 IAB ermöglicht vorgezogenen gewinnmindernde Abschreibungen bereits bis zu 3 Jahren vor Anschaffung
 - ab 1.1.2020
@@ -40,7 +40,7 @@ IAB ermöglicht vorgezogenen gewinnmindernde Abschreibungen bereits bis zu 3 Jah
 
 IAB Gestaltungen
 Vermietung möglich i.e Spardosen GmbH oder Genossenschaft wenn Gewinn >200,000€ / Betrieb
-Achtung bei Spardosen GmbH wegen [[Betriebsaufspaltung]] nicht bei beiden Gesellschaften als Geschäftsführer d.h. 51%/49% Beteiligung
+Achtung bei Spardosen GmbH wegen [[03_Tags/JvL-Invest-Tax|Betriebsaufspaltung]] nicht bei beiden Gesellschaften als Geschäftsführer d.h. 51%/49% Beteiligung
 
 ![[40_ATTACHMENTS/JvL_Invest/Clippings/Pasted image 20251021090311.png]]
 
@@ -53,7 +53,7 @@ IAB für KFZ
 
 Nutzung
 Um Gezahlte EK Steuern zuzückzuholen in der Einkommenssteuerwelt(Einzelunternehmen & GBR, GmbH & CoKG, UG&CoKG, )
-Richtige Rechtsform:  [[Steueridentitäten|Steueridentitäten]]
+Richtige Rechtsform:  [[03_Tags/JvL-Invest-Tax|Steueridentitäten]]
 - EU/GBR - Betriebsvermögen (Einkünfte aus Gewerbebetrieb) - *NICHT Privatvermögen (sonstige einkünfte vermietung TinyHaus, KFZ, )* da Vermietungseinkünfte keine Gewerblichen Einkünfte sind
 - GmbH&CoKG Immer Einkünfte aus Gewerbebetrieb (oder UG&CoKG)
 - GmbH eG Betiebsvermögen *KEINE verrechnung mit Einkünften*

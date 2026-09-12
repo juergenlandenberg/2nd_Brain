@@ -28,4 +28,4 @@ Title: Immobilien Steuergestaltung
 Date: 2025-10-21 
 Time: 09:24 
 
-[[Steuern Wissen]]
+[[03_Tags/JvL-Invest-Tax|Steuern Wissen]]

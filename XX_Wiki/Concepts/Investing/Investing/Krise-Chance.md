@@ -27,33 +27,33 @@ Time: 07:34
 Source:
 
 
-Type: [[Option]], [[Futures]], [[Equity]]
+Type: [[03_Tags/JvL-Invest-Options|Option]], [[03_Tags/JvL-Invest-Futures|Futures]], [[03_Tags/JvL-Invest-Investing|Equity]]
 Market: Range/Neutral
 
 ## Recovery after War:
 
 
 
-![[10_RAW/Clippings/JvL_Invest/Pasted image 20260617073518.png]]
+![[40_ATTACHMENTS/JvL_Invest/Clippings/Pasted image 20260617073518.png]]
 ## Anlageklassen:
-![[10_RAW/Clippings/JvL_Invest/Pasted image 20260617073541.png]]
+![[40_ATTACHMENTS/JvL_Invest/Clippings/Pasted image 20260617073541.png]]
 
 ## Neuer FED Chef:
 
-![[10_RAW/Clippings/JvL_Invest/Pasted image 20260617073707.png]]
+![[40_ATTACHMENTS/JvL_Invest/Clippings/Pasted image 20260617073707.png]]
 ##Inflation:
 
-![[10_RAW/Clippings/JvL_Invest/Pasted image 20260617073815.png]]
+![[40_ATTACHMENTS/JvL_Invest/Clippings/Pasted image 20260617073815.png]]
 
 ## Globale Geldmenge M2:
 
-![[10_RAW/Clippings/JvL_Invest/Pasted image 20260617073910.png]]
+![[40_ATTACHMENTS/JvL_Invest/Clippings/Pasted image 20260617073910.png]]
 ## Exit:
-![[10_RAW/Clippings/JvL_Invest/Pasted image 20260617073958.png]]
+![[40_ATTACHMENTS/JvL_Invest/Clippings/Pasted image 20260617073958.png]]
 ## Stats/Backtest:
 
 
-![[10_RAW/Clippings/JvL_Invest/Pasted image 20260617074111.png]]
+![[40_ATTACHMENTS/JvL_Invest/Clippings/Pasted image 20260617074111.png]]
 ## Notes: 
 
-![[10_RAW/Clippings/JvL_Invest/Pasted image 20260617074133.png]]
+![[40_ATTACHMENTS/JvL_Invest/Clippings/Pasted image 20260617074133.png]]

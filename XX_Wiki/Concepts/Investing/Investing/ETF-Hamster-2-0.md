@@ -21,8 +21,8 @@ Navigation: [[JvL-Invest]] · [[JvL-Invest-Investing]] · [[JvL-Invest-Futures-O
 
 > Imported from immutable RAW material. This is a review draft; source claims are not recommendations.
 
-[[Portfoliomanagent - Ausbildung]]
-[[Investment_Strategy]]
+[[03_Tags/JvL-Invest-Investing|Portfoliomanagent - Ausbildung]]
+[[03_Tags/JvL-Invest-Investing|Investment_Strategy]]
 
 
 ETF-Hamster 2.0 Die Idee: Unterschiedliche wissenschaftliche Studien belegen, dass Aktien kleiner und mittelständischer Unternehmen weitaus bessere Performance liefern als Aktien großer Konzerne. Dies liegt in der Natur der Sache und für diese Erkenntnis gab es sogar einen Nobelpreis. Ein kleines Unternehmen muss z.B. keine Investitionen in Milliardenhöhe machen, um zu wachsen. Es reichen bereits Millionen, um das Wachstum weiter anzukurbeln. Wohingegen Investitionsvorhaben im kleinen bis mittleren Millionenbereich für einen Milliardenkonzern wie Coca-Cola wie ein Tropfen auf den heißen Stein sind. 

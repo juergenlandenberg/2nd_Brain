@@ -28,7 +28,7 @@ Title: Systembrüche
 Date: 2025-10-13 
 Time: 21:42 
 
-[[Steuern Wissen]]
+[[03_Tags/JvL-Invest-Tax|Steuern Wissen]]
 
 Absetzung privater Ausgaben
 
@@ -38,7 +38,7 @@ Absetzung privater Ausgaben
   - Thesaurrierungsbesteuerung - nach Antrag wird unterschieden zwischen entnommenen Gewinnen (anwendbar persönliche Steuersatz und nicht entnommenen Gewinnen (pauschalsteuersatz 28.25%)
   - es funktioniert ähnlich einer GmbH - ABER ACHTUNG - bei späterer Entnahme 25% Steuern (spätestens bei Betriebsveräusserung / aufgabe - NICHT jedoch bei SCHENKUNG)
   - Beispiel Thesaurierung
-    ![[10_RAW/Clippings/JvL_Invest/Pasted image 20251013220549.png]]
+    ![[40_ATTACHMENTS/JvL_Invest/Clippings/Pasted image 20251013220549.png]]
 
 z.b. Hohe Einlage im Dez - Thesaurierungsbesteuerung -> weniger Entnommener Gewinn
 Hohe Entnahme im Januar 

@@ -28,9 +28,9 @@ Title: Genossenschaft
 Date: 2025-10-31 
 Time: 17:07 
 
-[[Steuern Wissen]]
+[[03_Tags/JvL-Invest-Tax|Steuern Wissen]]
 
-[[Steueridentitäten|Steueridentitäten]]
+[[03_Tags/JvL-Invest-Tax|Steueridentitäten]]
 
 
 ![[40_ATTACHMENTS/JvL_Invest/Clippings/Pasted image 20251031170507.png]]

@@ -27,7 +27,7 @@ Time: 09:22
 Source:
 
 
-Type: [[Option]], [[Futures]], [[Equity]]
+Type: [[03_Tags/JvL-Invest-Options|Option]], [[03_Tags/JvL-Invest-Futures|Futures]], [[03_Tags/JvL-Invest-Investing|Equity]]
 Market: Bullish, Bearisch, Range/Neutral
 
 ## Abstract:
@@ -51,7 +51,7 @@ The core execution strategy follows a strict sequential funnel starting from mac
     
 - **Action:** Establish whether the broader market sentiment is within an impulsive (trend) phase or a corrective phase. Define the primary directional bias (Long or Short).
     
-![[10_RAW/Clippings/JvL_Invest/Pasted image 20260517103435.png]]
+![[40_ATTACHMENTS/JvL_Invest/Clippings/Pasted image 20260517103435.png]]
 #### **Step 2: Structural Confirmation & Target Setting (1-Hour Chart)**
 
 - **Objective:** Map internal sub-wave structures and identify key logical pivot zones.
@@ -64,17 +64,17 @@ The core execution strategy follows a strict sequential funnel starting from mac
 - **Objective:** Filter out noise and await structural verification through a multi-indicator "Signal Pipeline."
     
 - **Action:** Monitor the asset for a unified combination of indicator changes. The strategy looks for a **4-Signal Confluence** featuring:
-- ![[10_RAW/Clippings/JvL_Invest/Pasted image 20260517103751.png]]
+- ![[40_ATTACHMENTS/JvL_Invest/Clippings/Pasted image 20260517103751.png]]
     
     1. _Elliott Wave automatic counting/arrow signals._
-        ![[10_RAW/Clippings/JvL_Invest/Pasted image 20260517103908.png]]
+        ![[40_ATTACHMENTS/JvL_Invest/Clippings/Pasted image 20260517103908.png]]
     2. _Supertrend Indicator direction change._
-        ![[10_RAW/Clippings/JvL_Invest/Pasted image 20260517103823.png]]
+        ![[40_ATTACHMENTS/JvL_Invest/Clippings/Pasted image 20260517103823.png]]
     3. _Ichimoku Cloud placement (price breaking through the Kumo cloud)._
-        ![[10_RAW/Clippings/JvL_Invest/Pasted image 20260517103653.png]]
+        ![[40_ATTACHMENTS/JvL_Invest/Clippings/Pasted image 20260517103653.png]]
     4. _TK Cross (Tenkan-sen / Kijun-sen crossing) and Heikin-Ashi candle reversals._
-        ![[10_RAW/Clippings/JvL_Invest/Pasted image 20260517103739.png]]
-![[10_RAW/Clippings/JvL_Invest/Pasted image 20260517103534.png]]
+        ![[40_ATTACHMENTS/JvL_Invest/Clippings/Pasted image 20260517103739.png]]
+![[40_ATTACHMENTS/JvL_Invest/Clippings/Pasted image 20260517103534.png]]
 #### **Step 4: Precision Execution & Timing (5-Minute Chart)**
 
 - **Objective:** Trigger the trade entry at the absolute optimal moment to keep risk tight.
@@ -126,8 +126,8 @@ This video walks through the exact step-by-step top-down process, signal pipelin
 ## Notes: 
 
 
-![[10_RAW/Clippings/JvL_Invest/Pasted image 20260524094958.png]]
+![[40_ATTACHMENTS/JvL_Invest/Clippings/Pasted image 20260524094958.png]]
 
-![[10_RAW/Clippings/JvL_Invest/Pasted image 20260524095230.png]]
+![[40_ATTACHMENTS/JvL_Invest/Clippings/Pasted image 20260524095230.png]]
 Welle 2 korrigiert typischerweise **50 %, 61,8 %, 78,6 % oder 88,7 %** von Welle 1. Das 61,8%-Level ist das „Goldene Retracement" – hier endet Welle 2 am häufigsten. Je tiefer das Retracement, desto explosiver ist oft die folgende Welle 3.
 Welle 4 korrigiert typischerweise weniger als Welle 2: **14,6 %, 23,6 % oder 38,2 %** von Welle 3. Welle 4 sollte nicht mehr als 50 % von Welle 3 korrigieren. Das 38,2%-Level ist das häufigste Ziel für Welle 4.

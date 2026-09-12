@@ -28,7 +28,7 @@ Title: Steueridentitäten
 Date: 2025-10-13 
 Time: 23:04 
 
-[[Steuern Wissen]][[03_Tags/Tax/Gesellschaftsformen]][[Unternehmensgründung]]
+[[03_Tags/JvL-Invest-Tax|Steuern Wissen]][[03_Tags/Tax/Gesellschaftsformen]][[03_Tags/JvL-Invest-Tax|Unternehmensgründung]]
 
 Jede gegründete Gesellschaft oder Rechtform ist eine eigene steuerliche Identität und unterliegt (steuerlichen) Regeln der jeweiligen Rechtsform mit den jeweiligen Vor- und Nachteilen.
 
@@ -41,11 +41,11 @@ Wirtschaftlichkeit vor Steuer sparen
 
 
 
-[[Einkommensteuer]] vs [[Körperschaftssteuer]] Welt 
+[[03_Tags/JvL-Invest-Tax|Einkommensteuer]] vs [[03_Tags/JvL-Invest-Tax|Körperschaftssteuer]] Welt 
 
-![[10_RAW/Clippings/JvL_Invest/Pasted image 20251014082458.png]]
+![[40_ATTACHMENTS/JvL_Invest/Clippings/Pasted image 20251014082458.png]]
 
 
 Einkommenssteurerwelt : Gewerbesteuer anrechenbart - nicht bei Körperschaften
 
-![[10_RAW/Clippings/JvL_Invest/Pasted image 20251014082744.png]]
+![[40_ATTACHMENTS/JvL_Invest/Clippings/Pasted image 20251014082744.png]]

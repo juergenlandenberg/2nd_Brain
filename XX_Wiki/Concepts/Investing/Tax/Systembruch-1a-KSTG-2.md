@@ -29,7 +29,7 @@ Date: 2025-10-13
 Time: 22:15 
 Language {{de}}
 
-[[Steuern Wissen]]
+[[03_Tags/JvL-Invest-Tax|Steuern Wissen]]
 
 Modernisierung des Körperschaftsteuerrechts
 
@@ -38,4 +38,4 @@ Modernisierung des Körperschaftsteuerrechts
 2. Unwiderrufglicher Antrag
 3. Behandlung wie GmbH
 4. Auf unwiderruflichen Antrag sind für Zwecke der Besteuerung nach dem Einkommen die Personenhandelsgesellschat oder Prtnerschaftsgesellschaft wie eine Kapitalgesellschaft (optierende Gesellschaft) und Ihre Gesellschafter wie die nicht persönlcih haftenden Geseelschafter einer Kapitalgesellschaft zu behandeln
-   **![[10_RAW/Clippings/JvL_Invest/Pasted image 20251013223840.png]]
+   **![[40_ATTACHMENTS/JvL_Invest/Clippings/Pasted image 20251013223840.png]]

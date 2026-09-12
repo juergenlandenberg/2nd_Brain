@@ -25,7 +25,7 @@ Title: Indicator Ichimoku Kinko
 Date: 2025-12-28 
 Time: 12:28 
 
-[[Indikator]]
+[[03_Tags/JvL-Invest-Trading|Indikator]]
 
 
 Blau Basis - Standard Baseline (9D)

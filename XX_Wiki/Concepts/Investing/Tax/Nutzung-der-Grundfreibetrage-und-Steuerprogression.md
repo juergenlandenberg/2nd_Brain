@@ -28,16 +28,16 @@ Title: Nutzung der Grundfreibeträge und Steuerprogression
 Date: 2025-10-13 
 Time: 22:58 
 
-[[Steuern Wissen]]
+[[03_Tags/JvL-Invest-Tax|Steuern Wissen]]
 
 Schaffen von Einkommen: 
 - Beteiligung von Unternehmen (Stille Gesellschafter)
 - Kapital
 
-![[10_RAW/Clippings/JvL_Invest/Pasted image 20251013230059.png]]
+![[40_ATTACHMENTS/JvL_Invest/Clippings/Pasted image 20251013230059.png]]
 
 Beispiele 
 1. Charlotte Anstellen
 2. Ehegatte - Geringfügig beschäftigen (520€)
 
-![[10_RAW/Clippings/JvL_Invest/Pasted image 20251013230510.png]]
+![[40_ATTACHMENTS/JvL_Invest/Clippings/Pasted image 20251013230510.png]]

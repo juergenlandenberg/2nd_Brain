@@ -26,9 +26,9 @@ Date: 2025-12-28
 Time: 12:12 
 Source:
 
-[[Investment_Strategy]]
-Type: [[Options]], 
-Market: [[Range/Neutral]]
+[[03_Tags/JvL-Invest-Investing|Investment_Strategy]]
+Type: [[03_Tags/JvL-Invest-Options|Options]], 
+Market: [[03_Tags/JvL-Invest-Options|Range/Neutral]]
 
 ## Abstract:
 

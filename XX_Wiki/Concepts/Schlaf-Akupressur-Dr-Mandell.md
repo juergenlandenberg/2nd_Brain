@@ -15,7 +15,7 @@ sources:
 
 # Schlaf-Akupressur nach Dr. Mandell
 
-![[Medical-acupunture_sleep_hand.png]]
+![[40_ATTACHMENTS/Medical-acupunture_sleep_hand.png]]
 
 The image above is the preserved source attachment. The text below is an OCR-assisted and source-checked summary; the anatomical labels remain approximate.
 

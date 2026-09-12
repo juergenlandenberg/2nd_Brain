@@ -21,7 +21,7 @@ Navigation: [[JvL-Invest]] · [[JvL-Invest-Investing]] · [[JvL-Invest-Futures-O
 
 > Imported from immutable RAW material. This is a review draft; source claims are not recommendations.
 
-[[Steuern Wissen]]
+[[03_Tags/JvL-Invest-Tax|Steuern Wissen]]
 
 #_Tax Tax
 	
@@ -30,8 +30,8 @@ Title: Hebeleffekt
 Date: 2025-10-14 
 Time: 08:48 
 
-[[Steuern Wissen]]
-[[Immobilienwissen]]
+[[03_Tags/JvL-Invest-Tax|Steuern Wissen]]
+[[03_Tags/JvL-Invest-Investing|Immobilienwissen]]
 
 
 Hebeleffekt
@@ -43,9 +43,9 @@ aktuell (2025) Nebenkosten eigenfinanziert + evt10% ( vollfinanzierung noch mög
 
 Garantien / Sicherheiten Edelmetalle, Aktiendepot
 
-![[10_RAW/Clippings/JvL_Invest/Pasted image 20251014085425.png]]
+![[40_ATTACHMENTS/JvL_Invest/Clippings/Pasted image 20251014085425.png]]
 
 Beispiele Eigenkapitaldite bei 1M Immobilienkauf
-![[10_RAW/Clippings/JvL_Invest/Pasted image 20251014090127.png]]
+![[40_ATTACHMENTS/JvL_Invest/Clippings/Pasted image 20251014090127.png]]
 
 [[Albert Einstein]] : "Der Zinseszins ist die größte Erfindung des menschlichen Denkens"

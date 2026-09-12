@@ -21,10 +21,10 @@ Navigation: [[JvL-Invest]] · [[JvL-Invest-Investing]] · [[JvL-Invest-Futures-O
 
 > Imported from immutable RAW material. This is a review draft; source claims are not recommendations.
 
-[[Steuerabschlüsse]]
-[[Steuern Wissen]]
-[[Abschreibung]]
-[[Rueckstellungen]]
+[[03_Tags/JvL-Invest-Tax|Steuerabschlüsse]]
+[[03_Tags/JvL-Invest-Tax|Steuern Wissen]]
+[[03_Tags/JvL-Invest-Tax|Abschreibung]]
+[[03_Tags/JvL-Invest-Tax|Rueckstellungen]]
 
 ## Bestandteile
 1. GUV

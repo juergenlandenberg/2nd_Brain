@@ -23,7 +23,7 @@ Navigation: [[JvL-Invest]] · [[JvL-Invest-Investing]] · [[JvL-Invest-Futures-O
 
 Pipeline US 2026-07-18 
 
-[[Private Equities]]
+[[03_Tags/JvL-Invest-Investing|Private Equities]]
 
 
 Status: 

@@ -26,9 +26,9 @@ Date: 2025-12-28
 Time: 11:56 
 Source: youtube
 
-[[Investment_Strategy]]
-Type:  [[Equity]]
-Market: [[Bullish]]
+[[03_Tags/JvL-Invest-Investing|Investment_Strategy]]
+Type:  [[03_Tags/JvL-Invest-Investing|Equity]]
+Market: [[03_Tags/JvL-Invest-Investing|Bullish]]
 
 
 

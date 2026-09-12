@@ -21,8 +21,8 @@ Navigation: [[JvL-Invest]] · [[JvL-Invest-Investing]] · [[JvL-Invest-Futures-O
 
 > Imported from immutable RAW material. This is a review draft; source claims are not recommendations.
 
-[[Futures]]
-[[TradingView]]
+[[03_Tags/JvL-Invest-Futures|Futures]]
+[[03_Tags/JvL-Invest-Trading|TradingView]]
 
 Title: Untitled 
 Date: 2025-11-13 

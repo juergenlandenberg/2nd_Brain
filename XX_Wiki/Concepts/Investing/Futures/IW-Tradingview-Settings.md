@@ -25,8 +25,8 @@ Title: IW Tradingview Settings
 Date: 2025-12-28 
 Time: 11:16 
 
-[[TradingView]]
-[[IW Future Training]]
+[[03_Tags/JvL-Invest-Trading|TradingView]]
+[[03_Tags/JvL-Invest-Futures|IW Future Training]]
 
 
 ## Hauptchart Kerzen: 

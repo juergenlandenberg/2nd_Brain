@@ -26,8 +26,8 @@ Date: 2025-12-28
 Time: 09:20 
 
 
-[[Futures]]
-[[IW Future Training]]
+[[03_Tags/JvL-Invest-Futures|Futures]]
+[[03_Tags/JvL-Invest-Futures|IW Future Training]]
 
 
 

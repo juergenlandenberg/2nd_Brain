@@ -24,7 +24,7 @@ Navigation: [[JvL-Invest]] · [[JvL-Invest-Investing]] · [[JvL-Invest-Futures-O
 Title: Steuernummern ab 2025 
 Date: 2025-10-6
 Time: 13:35 
-[[Steuern Anwendung]]
+[[03_Tags/JvL-Invest-Tax|Steuern Anwendung]]
 [[Gewerbe A]]
 
 
@@ -42,4 +42,4 @@ Ihre bisherige Steuernummer ~~183/477/13305~~
 
   
 
-![[10_RAW/Clippings/JvL_Invest/Pasted image 20251013133548.jpg]]
+![[40_ATTACHMENTS/JvL_Invest/Clippings/Pasted image 20251013133548.jpg]]
