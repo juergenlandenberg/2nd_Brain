@@ -20,3 +20,7 @@ Zentraler Cluster für Betrieb, Erweiterung und Governance der Hermes-Agentenlan
 - [[Skills-Index]]
 
 **Authority:** Erna is the sole 2ndB administrator and writer. Other agents read, propose, and acknowledge; they do not write directly.
+
+## Central tag navigation
+
+- [[Tags]] — central tag and MOC index

@@ -33,6 +33,11 @@ The supplied Hermes Operations & Maintenance Guide is accepted as a **conceptual
 
 The guide's `01_Rough Notes` through `08_Quotes` and `xx_Main` are therefore treated as a **source-vault mapping model**, not as a second physical hierarchy.
 
+## Navigation
+
+- [[INDEX]] — authoritative 2nd-Brain index
+- [[03_Tags/Tags]] — central MOC and tag navigation
+
 ## Not adopted as written
 
 ### Classical tags

@@ -47,3 +47,7 @@ Trading navigation hub for imported JvL_Invest knowledge. All linked notes remai
 ## Review rule
 
 Source material is preserved in `10_RAW/Archive Imports`. This index organizes it; it does not turn source claims into advice.
+
+## Central tag navigation
+
+- [[Tags]] — central tag and MOC index

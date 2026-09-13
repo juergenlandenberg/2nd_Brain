@@ -130,6 +130,10 @@ For each concrete strategy, create a separate note only when source material is 
 
 The current import confirms Futures and Options as source taxonomy areas. Concrete strategy notes must be extracted from substantive `xx_Main` material; this page does not invent or endorse strategies.
 
+## Central tag navigation
+
+- [[Tags]] — central tag and MOC index
+
 ## Related
 
 - [[JvL-Invest-Investing]]

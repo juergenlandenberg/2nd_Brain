@@ -75,6 +75,10 @@ Periodic health check:
 
 Use `[[wikilinks]]` for all internal links. Every page should link to related pages.
 
+- [[SCHEMA]] — wiki page schema
+- [[overview]] — wiki overview
+- [[log]] — append-only wiki action log
+
 ## Language
 
 Sources may be in any language. Wiki pages are written in the language of the source, or German/English as Jürgen prefers.

@@ -4,6 +4,7 @@ Authoritative navigation index for the governed 2nd Brain. Google Drive is the w
 
 ## Main vault nodes
 
+- [[03_Tags/Tags]] — central tag and MOC index
 - [[03_Tags/Vaults]] — color-coded vault navigation hub
 - [[XX_Wiki/Main/JvL-TRI]] — Pink; current source is welcome-only
 - [[XX_Wiki/Main/JvL-Gear]] — Yellow; images preserved and OCR-enriched
@@ -42,6 +43,9 @@ Authoritative navigation index for the governed 2nd Brain. Google Drive is the w
 - [[00_SYSTEM/source-policy]]
 - [[00_SYSTEM/note-governance]]
 - [[03_Tags/Hermes-Operations]]
+- [[00_SYSTEM/guide-compatibility-review]]
+- [[2nd-Brain-Overview]]
+- [[00_SYSTEM/Hermes-Mirror/Hermes-Mirror-Overview]]
 
 ## Import governance
 

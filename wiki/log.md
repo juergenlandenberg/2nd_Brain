@@ -35,3 +35,7 @@
 - Created: wiki/concepts/shared-task-board.md, wiki/concepts/agent-setup-learnings.md
 - Updated: wiki/index.md, AGENTS.md
 - Key takeaways: Bruno built async project management system at /opt/data/shared/. Board CLI for all operations. Cronjobs every 30 min for inbox checking. Learnings documented for future agent setup.
+
+## [2026-09-13] update | Graph connectivity and tag navigation
+- Audited all 2nd-Brain Markdown notes and preserved media embeds.
+- Added central `03_Tags/Tags.md` navigation and repaired isolated documentation links.

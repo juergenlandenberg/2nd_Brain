@@ -8,6 +8,11 @@ General research knowledge base — AI/ML, technology, business strategy, person
 
 - File names: lowercase, hyphens, no spaces (e.g., `transformer-architecture.md`)
 - Every wiki page starts with YAML frontmatter (see below)
+
+## Navigation
+
+- [[../INDEX]] — authoritative 2nd-Brain index
+- [[../03_Tags/Tags]] — central MOC and tag navigation
 - Use `[[wikilinks]]` to link between pages (minimum 2 outbound links per page)
 - When updating a page, always bump the `updated` date
 - Every new page must be added to `index.md` under the correct section

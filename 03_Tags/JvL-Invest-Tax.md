@@ -80,6 +80,10 @@ Tax navigation hub for imported JvL_Invest knowledge. All linked notes remain dr
 - [[Investing/Tax/Vorraussetzung-fur-erhohte-Abschreibung]] — Vorraussetzung für erhöhte Abschreibung
 - [[Investing/Tax/Vorraussetzung-fur-erhohte-Abschreibung-2]] — Vorraussetzung für erhöhte Abschreibung
 
+## Central tag navigation
+
+- [[Tags]] — central tag and MOC index
+
 ## Review rule
 
 Source material is preserved in `10_RAW/Archive Imports`. This index organizes it; it does not turn source claims into advice.

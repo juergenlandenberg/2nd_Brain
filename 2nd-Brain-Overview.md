@@ -10,3 +10,8 @@ Authoritative working knowledge base for Lanvision.
 - `90_ARCHIVE/` — retired material
 
 Agents read `00_SYSTEM/agents.md` before modifying the vault. Git is the rollback and audit layer; Google Drive is the working store.
+
+## Navigation
+
+- [[INDEX]] — authoritative 2nd-Brain navigation
+- [[03_Tags/Tags]] — central MOC and tag navigation

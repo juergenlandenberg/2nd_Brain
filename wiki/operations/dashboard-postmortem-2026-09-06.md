@@ -34,4 +34,9 @@ Der externe Zugang war zeitweise erreichbar, aber Login und Datenanzeige scheite
 
 Die autoritative Datenbank ist read-only einzubinden. Synthetische Fixtures dürfen nur in isolierten Tests/Preflights vorkommen und niemals als produktive Mountquelle oder Live-Snapshot dienen.
 
-Verknüpfte Themen: [[dashboard-data-contract]] [[deployment-reliability]] [[kanban-coordination]]
+Verknüpfte Themen: [[dashboard-production-environment]] [[Hermes-Operations]] [[deployment-reliability]] [[kanban-coordination]]
+
+## Navigation
+
+- [[INDEX]] — authoritative 2nd-Brain index
+- [[03_Tags/Tags]] — central tag and MOC navigation
